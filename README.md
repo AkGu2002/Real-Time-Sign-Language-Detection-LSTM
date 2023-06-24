@@ -76,9 +76,12 @@ The number of training epochs is set to 2000, but the training was stopped at 16
 
 ### Evaluation Using Confusion Matrix and accuracy
 This is the output for each of the three actions. It can be seen the model is working pretty well with very less number of false positives and false negatives.
+
 ![App Screenshot](https://github.com/AkGu2002/Real-Time-Sign-Language-Detection-LSTM/assets/74046369/70bd0bad-aafd-41da-b026-71aab906acb3)
 
+
 The accuracy had reached 96.47%.
+
 ![App Screenshot](https://github.com/AkGu2002/Real-Time-Sign-Language-Detection-LSTM/assets/74046369/a793e7da-40ec-442f-a968-5c498258d871)
 
 ### Testing in Real Time
